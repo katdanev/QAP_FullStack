@@ -1,0 +1,1 @@
+Hello, this is creating and writing new file using writeFile method! And its works!
